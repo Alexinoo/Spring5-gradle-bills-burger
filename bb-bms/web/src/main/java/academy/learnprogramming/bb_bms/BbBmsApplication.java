@@ -1,5 +1,4 @@
 package academy.learnprogramming.bb_bms;
-
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

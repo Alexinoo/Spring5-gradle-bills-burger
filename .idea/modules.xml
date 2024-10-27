@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring5-gradle-bills-burger.iml" filepath="$PROJECT_DIR$/.idea/Spring5-gradle-bills-burger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bb-bms.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bb-bms.main.iml" />
     </modules>
   </component>
 </project>

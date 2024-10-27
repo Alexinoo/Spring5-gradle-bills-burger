@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/bb-bms" />
+            <option value="$PROJECT_DIR$/bb-bms/core" />
           </set>
         </option>
       </GradleProjectSettings>
